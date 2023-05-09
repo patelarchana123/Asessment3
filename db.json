@@ -1,0 +1,30 @@
+{
+  "employee": [
+    {
+      "firstname": "archana",
+      "lastname": "patel",
+      "email": "adipatel2820@gmail.com",
+      "department": "asfsdgfgfhdfh",
+      "address": "gsgfhdfdfh",
+      "contactnumber": 12334444,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, possimus.",
+      "password": "12345",
+      "confirmpassword": "12345",
+      "status": "Active",
+      "id": 19
+    },
+    {
+      "firstname": "archana",
+      "lastname": "patel",
+      "email": "adipatel2820@gmail.com",
+      "department": "asfsdgfgfhdfh",
+      "address": "gsgfhdfdfh",
+      "contactnumber": 12334444,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, possimus.",
+      "password": "12345",
+      "confirmpassword": "12345",
+      "status": "Active",
+      "id": 20
+    }
+  ]
+}
